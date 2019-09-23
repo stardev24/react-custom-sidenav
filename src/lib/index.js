@@ -1,3 +1,3 @@
-import PhoneNumberInput from "./components/PhoneNumberInput";
+import SideNav from "./components/SideNav";
 
-export { PhoneNumberInput };
+export { SideNav };

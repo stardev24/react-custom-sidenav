@@ -1,5 +1,7 @@
-# react-phone-field-formatter
-A library of React components created using `create-react-app`.## Installation
+# react-custom-sidenav
+A library of React components created using `create-react-app` and material-ui.
+
+# Installation
 Run the following command:
-`npm install react-phone-field-formatter`
+`npm install react-custom-sidenav`
 

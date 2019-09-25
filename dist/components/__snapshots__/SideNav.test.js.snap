@@ -1,0 +1,230 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PhoneTextInput renders properly 1`] = `
+<div
+  className="makeStyles-root-1"
+>
+  <header
+    className="MuiPaper-root MuiPaper-elevation4 MuiAppBar-root MuiAppBar-positionSticky makeStyles-appBar-2 MuiAppBar-colorPrimary"
+  >
+    <div
+      className="MuiToolbar-root MuiToolbar-regular MuiToolbar-gutters"
+    >
+      <button
+        aria-label="open drawer"
+        className="MuiButtonBase-root MuiIconButton-root makeStyles-menuButton-4 MuiIconButton-colorInherit MuiIconButton-edgeStart"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiIconButton-label"
+        >
+          <svg
+            aria-hidden="true"
+            className="MuiSvgIcon-root"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+            />
+          </svg>
+        </span>
+      </button>
+      <h6
+        className="MuiTypography-root MuiTypography-h6 MuiTypography-noWrap"
+      >
+        Custom Navbar
+      </h6>
+    </div>
+  </header>
+  <div
+    className="MuiDrawer-root MuiDrawer-docked makeStyles-drawer-6 makeStyles-drawerClose-8"
+  >
+    <div
+      className="MuiPaper-root MuiPaper-elevation0 MuiDrawer-paper makeStyles-drawerClose-8 MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft"
+    >
+      <div
+        className="makeStyles-toolbar-9"
+      >
+        <img
+          alt="Brand"
+          className="makeStyles-logo-12"
+          height="50px"
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7bYh95wcxKFLdLPI_wj55K1EKvLbhaz4dWxfoxw7AVjdaYKC"
+          width="50px"
+        />
+        <button
+          className="MuiButtonBase-root MuiIconButton-root"
+          disabled={false}
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          tabIndex={0}
+          type="button"
+        >
+          <span
+            className="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              className="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"
+              />
+            </svg>
+          </span>
+        </button>
+      </div>
+      <hr
+        className="MuiDivider-root"
+      />
+      <ul
+        className="MuiList-root MuiList-padding"
+      >
+        <div
+          aria-disabled={false}
+          className="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          role="button"
+          tabIndex={0}
+        >
+          <span>
+            <div
+              className="MuiListItemIcon-root"
+            >
+              <span
+                aria-hidden={true}
+                className="material-icons MuiIcon-root fa fa-plus-circle fa-4"
+              />
+            </div>
+          </span>
+          <div
+            className="MuiListItemText-root"
+          >
+            <span
+              className="MuiTypography-root MuiListItemText-primary MuiTypography-body1"
+            >
+              Home
+            </span>
+          </div>
+        </div>
+        <div
+          aria-disabled={false}
+          className="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          role="button"
+          tabIndex={0}
+        >
+          <span>
+            <div
+              className="MuiListItemIcon-root"
+            >
+              <span
+                aria-hidden={true}
+                className="material-icons MuiIcon-root fa fa-info-circle fa-4"
+              />
+            </div>
+          </span>
+          <div
+            className="MuiListItemText-root"
+          >
+            <span
+              className="MuiTypography-root MuiListItemText-primary MuiTypography-body1"
+            >
+              About
+            </span>
+          </div>
+        </div>
+        <div
+          aria-disabled={false}
+          className="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+          onBlur={[Function]}
+          onClick={[Function]}
+          onDragLeave={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onKeyUp={[Function]}
+          onMouseDown={[Function]}
+          onMouseLeave={[Function]}
+          onMouseUp={[Function]}
+          onTouchEnd={[Function]}
+          onTouchMove={[Function]}
+          onTouchStart={[Function]}
+          role="button"
+          tabIndex={0}
+        >
+          <span>
+            <div
+              className="MuiListItemIcon-root"
+            >
+              <span
+                aria-hidden={true}
+                className="material-icons MuiIcon-root fa fa-user-circle fa-4"
+              />
+            </div>
+          </span>
+          <div
+            className="MuiListItemText-root"
+          >
+            <span
+              className="MuiTypography-root MuiListItemText-primary MuiTypography-body1"
+            >
+              Users
+            </span>
+          </div>
+        </div>
+      </ul>
+    </div>
+  </div>
+</div>
+`;
